@@ -6,10 +6,12 @@ import {
     ToggleButton,
     ToggleButtonGroup 
 } from '@mui/material'
+
 import SendIcon from '@mui/icons-material/Send';
 import FormatBoldIcon from '@mui/icons-material/FormatBold';
 import FormatItalicIcon from '@mui/icons-material/FormatItalic';
 import FormatUnderlinedIcon from '@mui/icons-material/FormatUnderlined';
+
 import { useState } from 'react';
 
 export const MuiButton = () => {
@@ -24,7 +26,7 @@ export const MuiButton = () => {
     setFormats(updatedFormated) 
   }
   return (
-    <Stack spacing={2}>
+    <Stack spacing={4}>
         <Stack spacing={2} direction='row'>
             <Button variant='text'>Text</Button>
             <Button variant='contained'>Contained</Button>
