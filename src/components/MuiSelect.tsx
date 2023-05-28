@@ -21,7 +21,8 @@ export const MuiSelect = () => {
           }}
           size='small'
           color='primary'
-          helperText='Please select your country'>
+          helperText='Please select your country'
+          error>
             <MenuItem value='IN'>India</MenuItem>
             <MenuItem value='US'>USA</MenuItem>
             <MenuItem value='AU'>Australia</MenuItem>
