@@ -9,9 +9,7 @@ A sandbox repo for tessting out [Material UI](https://mui.com/).
 * [Material UI](https://mui.com)
 * [React](https://react.dev/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
-
-
-
